@@ -5,3 +5,4 @@ vendors
 .ipynb_checkpoints
 libraries/logs
 __pycache__
+env/
