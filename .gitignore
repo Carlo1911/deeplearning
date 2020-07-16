@@ -1,0 +1,7 @@
+annotations
+images
+vendors
+.DS_Store
+.ipynb_checkpoints
+libraries/logs
+__pycache__
